@@ -7,11 +7,11 @@ Currently: Middle Frontend / Full-stack Developer at **IDEA**.
 
 ## 🛠 Stack
 
-**Frontend:** React · TypeScript · JavaScript · Next.js · Vue 3 · Nuxt · React Native · Electron
-**State & data:** TanStack Query · Redux Toolkit · Pinia · Zustand · React Hook Form · Zod · Apollo / GraphQL
-**UI:** Tailwind CSS · Ant Design · Quasar · shadcn/ui · Element Plus
-**Backend & real-time:** Laravel · Inertia.js · Laravel Reverb / Echo (WebSockets) · Horizon · Redis · REST API
-**Tooling:** Vite · Vitest · Git · i18n
+- **Frontend:** React · TypeScript · JavaScript · Next.js · Vue 3 · Nuxt · React Native · Electron
+- **State & data:** TanStack Query · Redux Toolkit · Pinia · Zustand · React Hook Form · Zod · Apollo / GraphQL
+- **UI:** Tailwind CSS · Ant Design · Quasar · shadcn/ui · Element Plus
+- **Backend & real-time:** Laravel · Inertia.js · Laravel Reverb / Echo (WebSockets) · Horizon · Redis · REST API
+- **Tooling:** Vite · Vitest · Git · i18n
 
 ## 💼 Selected work (private company repositories)
 
